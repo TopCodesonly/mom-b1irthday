@@ -1,0 +1,18 @@
+.images{
+    width:300px;
+    height: 300px;
+}
+
+body{
+    background-image: url("13654247-happy-birthday-background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+h1{
+    text-align: center;
+    color: #4CAF50;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
